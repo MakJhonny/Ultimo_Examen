@@ -1,0 +1,64 @@
+{
+  "RSpec": {
+    "coverage": {
+      "C:/Users/Asus/Documents/Ingenieria de Software/Ruby/template2_6_5-master/template2_6_5-master/spec/fizz_buzz_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "C:/Users/Asus/Documents/Ingenieria de Software/Ruby/template2_6_5-master/template2_6_5-master/lib/FizzBuzz.rb": {
+        "lines": [
+          1,
+          1,
+          27,
+          27,
+          null,
+          1,
+          11,
+          1,
+          null,
+          10,
+          3,
+          null,
+          7,
+          3,
+          null,
+          4,
+          3,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1604546039
+  }
+}
